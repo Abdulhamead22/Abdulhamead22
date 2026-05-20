@@ -1,12 +1,13 @@
-# 👋 Hi, I'm a Software Engineering Graduate
+# 👋 Hi, I'm Abdulhamead
 
-🚀 Mobile App Developer | Flutter 
+🚀 Flutter Developer | Firebase | Mobile Applications
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering graduate currently focusing on mobile application development using Flutter.  
+I am a Software Engineering graduate currently focusing on mobile application development using Flutter.
+
 Passionate about building real-world applications and continuously improving my skills in modern mobile development.
 
 ---
@@ -28,16 +29,14 @@ Passionate about building real-world applications and continuously improving my 
 
 - Clean Architecture 🧱
 - Advanced Flutter Development 🚀
-- State Management (Deep Dive) ⚙️
 - Firebase Advanced Features 🔥
-- UI/UX Design 🎨
-- Freelancing & Remote Work 💼
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📅 Appointment Booking App
+
 A Flutter application for managing medical appointments where patients can book appointments and doctors can manage schedules.
 
 **Tech Used:** Flutter, Firebase, BLoC/Cubit
@@ -45,14 +44,16 @@ A Flutter application for managing medical appointments where patients can book 
 ---
 
 ### 📰 News App
-A simple news application that displays categorized news (Sports, Science, Business) using APIs.
 
-**Tech Used:** Flutter, REST API, Dio, Postman, Shared Preferences
+A simple news application that displays categorized news such as Sports, Science, and Business using APIs.
+
+**Tech Used:** Flutter, REST API, Dio, Shared Preferences
 
 ---
 
 ### 👥 Social App
-A social media-style app with posts, chat system, and user profiles.
+
+A social media-style application with posts, chat system, and user profiles.
 
 **Tech Used:** Flutter, Firebase, BLoC/Cubit
 
@@ -70,10 +71,13 @@ A social media-style app with posts, chat system, and user profiles.
 
 ## 🎯 Goal
 
-To become a strong Mobile App Developer and work on real-world impactful applications while gaining professional experience through freelance and remote opportunities.
+To become a strong Mobile App Developer and work on impactful real-world applications while gaining professional experience through freelance and remote opportunities.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Abdulhamead22
+- Email: abdalmashharami@gmail.com.com
 
 Always open to learning opportunities and collaboration 🚀
