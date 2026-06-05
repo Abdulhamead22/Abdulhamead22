@@ -78,6 +78,6 @@ To become a strong Mobile App Developer and work on impactful real-world applica
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Abdulhamead22
-- Email: abdalmashharami@gmail.com.com
+- Email: abdalmashharami@gmail.com
 
 Always open to learning opportunities and collaboration 🚀
